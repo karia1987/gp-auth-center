@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/auth-center-dao-impl/auth-center-dao-impl.iml" filepath="$PROJECT_DIR$/auth-center-dao-impl/auth-center-dao-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auth-center-web/auth-center-web.iml" filepath="$PROJECT_DIR$/auth-center-web/auth-center-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gp-auth-center.iml" filepath="$PROJECT_DIR$/gp-auth-center.iml" />
+    </modules>
+  </component>
+</project>
